@@ -1,0 +1,21 @@
+.clock{
+    color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100%;
+    font-size: 150px;
+    margin-top: 15%;
+    margin-left: 52%;
+    border: 6px solid rgba(20, 18, 18, 0.918);
+    
+        
+}
+
+body{
+    background-color: rgb(24, 23, 23);
+    background-image: url(./img/m.jpg);
+    background-size: cover;
+    position: relative;
+}
